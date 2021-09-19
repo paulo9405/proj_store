@@ -15,4 +15,6 @@ Python 3.9.6
 
 6 - Roda o sistema 'runserver'.
 
-7 - Para popular os bancos com os dados, abra o terminal, navege ate o pasta  datasets -> db-csv/datasets e digita o comando 'python my_script.py'
+7 - acessar o sistema 'http://localhost:8000/'
+
+8 - Para popular os bancos com os dados, abra o terminal, navege ate o pasta  datasets -> db-csv/datasets e digita o comando 'python my_script.py'
