@@ -17,4 +17,7 @@ Python 3.9.6
 
 7 - acessar o sistema 'http://localhost:8000/'
 
-8 - Para popular os bancos com os dados, abra o terminal, navege ate o pasta  datasets -> db-csv/datasets e digita o comando 'python my_script.py'
+8 - Para popular os bancos com os dados, abra o terminal, navegue até a pasta  
+datasets -> db-csv/datasets e digita o comando 'python my_script.py', se estiver usando o Pycharm 
+abra o arquivo my_script clica com o botão direito nele e em seguida clica na opção 'Run'.
+
